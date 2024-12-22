@@ -7,3 +7,4 @@ content/Student Depression Dataset.csv
 content/creditcard.csv
 content/creditcard_full.csv
 content/creditcard_short.csv
+credit_card_model.pth
